@@ -53,12 +53,5 @@ public class Main {
         }
       }  
     }
-
-    /*
-    shapeMaker.drawRectangle();
-    shapeMaker.drawSquare();
-    shapeMaker.drawCircle();
-    shapeMaker.drawInvalid();
-    */
   }
 }
